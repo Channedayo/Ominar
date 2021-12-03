@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":true,"name":"성 복도","order":5,"parentId":0,"scrollX":632.25,"scrollY":639.75},
+{"id":2,"expanded":true,"name":"감옥","order":3,"parentId":3,"scrollX":632.25,"scrollY":396.75},
+{"id":3,"expanded":true,"name":"알현실","order":2,"parentId":0,"scrollX":944.25,"scrollY":639.75},
+{"id":4,"expanded":true,"name":"성문앞","order":4,"parentId":0,"scrollX":651.75,"scrollY":408.75},
+{"id":5,"expanded":true,"name":"마을","order":6,"parentId":0,"scrollX":791.25,"scrollY":608.25},
+{"id":6,"expanded":true,"name":"MAP006","order":7,"parentId":0,"scrollX":632.25,"scrollY":473.25},
+{"id":7,"expanded":true,"name":"MAP007","order":8,"parentId":6,"scrollX":0,"scrollY":0},
+{"id":8,"expanded":true,"name":"MAP008","order":9,"parentId":7,"scrollX":0,"scrollY":0},
+{"id":9,"expanded":true,"name":"MAP009","order":10,"parentId":8,"scrollX":632.25,"scrollY":396.75},
+{"id":10,"expanded":true,"name":"퍼즐","order":11,"parentId":9,"scrollX":644.25,"scrollY":743.25},
+{"id":11,"expanded":true,"name":"MAP011","order":12,"parentId":10,"scrollX":632.25,"scrollY":396.75},
+{"id":12,"expanded":true,"name":"MAP012","order":13,"parentId":11,"scrollX":0,"scrollY":0},
+{"id":13,"expanded":true,"name":"MAP013","order":14,"parentId":12,"scrollX":0,"scrollY":0},
+{"id":14,"expanded":true,"name":"MAP014","order":15,"parentId":13,"scrollX":0,"scrollY":0},
+{"id":15,"expanded":true,"name":"MAP015","order":16,"parentId":14,"scrollX":632.25,"scrollY":396.75},
+{"id":16,"expanded":true,"name":"MAP016","order":17,"parentId":15,"scrollX":0,"scrollY":0},
+{"id":17,"expanded":true,"name":"MAP017","order":18,"parentId":16,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
+{"id":18,"expanded":true,"name":"MAP018","order":19,"parentId":17,"scrollX":0,"scrollY":0},
+{"id":19,"expanded":false,"name":"MAP019","order":20,"parentId":18,"scrollX":632.25,"scrollY":396.75},
+{"id":20,"expanded":false,"name":"현대","order":1,"parentId":0,"scrollX":632.25,"scrollY":396.75}
+]
